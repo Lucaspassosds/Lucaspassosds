@@ -1,5 +1,5 @@
 ## Oops, since you've come this far, let me introduce you a little bit about myself 
-### Hi! I'm Lucas, and i have a 23 yld👋
+### Hi! I'm Lucas!👋
 
 - I'm a Brazilian computer engineering student at Universidade de Pernambuco and a Software Developer.
 - ♾️ I work as full stack a web dev who loves to be always learning and discovering new technologies and applying them in everyday life in a way that can always improve people's lives
